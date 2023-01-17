@@ -1,0 +1,137 @@
+.header{
+    background-image: url(../proger/img/header.png) ;
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-size: 100px;
+    height: 100%;
+
+}
+p{
+    font-size:20px;
+}
+.link{
+  float:right;
+    
+}
+.like{
+  float: right;
+  font-size: 25px;
+}
+.body{
+  padding-right: 15px;
+  align-items: stretch;
+  float: right;
+}
+.pub{
+  
+ padding-right: 15px;
+ float: right;
+}
+.t2 {
+  width: 440px; 
+  height: 400px;
+  float:right;
+  padding: 5px;
+}
+.t2.para{
+  text-align:justify;
+  float: inline-start;
+  word-break: break-all;
+}
+table, th, td {
+  width: 400px; 
+  height: 70px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+  background: linear-gradient(to bottom right, gray 0%, #003366 100%);
+  color: white;
+}
+.t1{
+  background-color:rgba(197, 188, 188, 0.678);
+}
+.box {
+  color: aliceblue;
+  background: linear-gradient(to bottom right, gray 0%, #003366 100%);
+  min-height: 350px;
+  width: 540px;
+  padding: 1%;
+  float: right;
+  align-items: stretch;
+}
+.voiture{
+  padding: 15px;
+  align-items: stretch;
+  min-height: 400px;
+  width: 540px;
+  float: right;
+  
+}
+.alfa{
+  font-size:35px;
+  background: linear-gradient(to bottom right, gray 0%, #465768 100%);
+  border-image: none;
+  border-radius: 0 0 0 0;
+  border-style: solid;
+  color: white;
+}
+.p2{
+  width: 294px;
+  height: 400px;
+  border-style: inset;
+  font-size: 15px;
+  background: linear-gradient(to bottom right, rgb(252, 237, 237) 0%, #dcdcdd 100%);
+}
+
+.p2 th{
+  background:white;
+  color: black;
+  font-size: 20px;
+  height: 15px;
+}
+.p3{
+  width: 294px;
+  height: 380px;
+  border-style: inset;
+  background: linear-gradient(to bottom right, rgb(252, 237, 237) 0%, #dcdcdd 100%);
+}
+.p3 th{
+  background:white;
+  color: black;
+  font-size: 20px;
+  height: 15px;
+}
+.p4{
+  width: 290px;
+  height: 350px;
+  border-style: inset;
+  background: linear-gradient(to bottom right, rgb(252, 237, 237) 0%, #dcdcdd 100%);
+}
+.p4 th{
+  background:white;
+  color: black;
+  font-size: 20px;
+  height: 15px;
+}
+footer{
+  background-color: #54585d;
+  color: white;
+  height: 300px;
+  
+}
+.fo1 li{
+  display: inline;
+  list-style-type: square;
+}
+.fulloccas{
+  font-size: 15px;
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  
+}
+.fo li{
+  padding-left:70px ;
+ display: inline;
+}
